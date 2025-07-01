@@ -29,11 +29,9 @@ El objetivo principal es centralizar y organizar la información relacionada  co
 
 6. **Ejecutar las consultas (DQL)**  
    Abrir `dql_select.sql` y ejecutar las sentencias para visualizar los resultados.
-
-
+   
 ## 7. Contribuciones 🤝
 Proyecto desarrollado por **Andrés Portilla**.  
-
 
 ## 8. Licencia y Contacto 📄
 **Licencia:** El proyecto puede utilizarse con fines académicos o de aprendizaje.  
